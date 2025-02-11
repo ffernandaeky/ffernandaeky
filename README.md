@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media.giphy.com/media/hWh8fislMRtp0bFUuE/giphy.gif" alt="Cyberpunk Hacker Glitch GIF" />
-
-###
