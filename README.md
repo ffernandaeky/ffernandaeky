@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Eky Fernanda, a Data Analyst passionate about Machine Learning, AI, and Data Visualization.</h2>
+<h2 align="left">Hi 👋! I'm Eky Fernanda, a Data Analyst passionate about Machine Learning, Deep Learning, Artificial Intelligence, and Data Visualization.</h2>
 
 ###
 
