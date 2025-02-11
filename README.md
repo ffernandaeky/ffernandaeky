@@ -59,8 +59,3 @@
 <img align="right" height="150" src="https://media.giphy.com/media/hWh8fislMRtp0bFUuE/giphy.gif" alt="Cyberpunk Hacker Glitch GIF" />
 
 ###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
