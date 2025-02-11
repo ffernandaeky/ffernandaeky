@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -19,13 +19,20 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Upload animation
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4 # Update ke v4
         with:
           name: snake-animation
           path: dist/snake.svg
 
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: output
-          folder: dist
+        run: |
+          git checkout --orphan output
+          git reset --hard
+          git add dist/snake.svg
+          git commit -m "Update Snake Animation"
+          git push -f origin output
