@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! I'm Eky Fernanda (Data Analyst).<br><br>📊 What I Do: Transforming complex data into clear, strategic business insights.<br><br>🧠 My Focus Area:<br>* Machine Learning (ML)<br>* Deep Learning (DL)<br>* Artificial Intelligence (AI)<br>* Data Visualization (Tableau, Power BI, Matplotlib/Seaborn)<br><br>Let's collaborate on data-driven projects! 🤝
+Hi 👋! I'm Eky Fernanda (Data Scientist).<br><br>📊 What I Do: Transforming complex data into clear, strategic business insights.<br><br>🧠 My Focus Area:<br>* Machine Learning (ML)<br>* Deep Learning (DL)<br>* Artificial Intelligence (AI)<br>* Data Visualization (Tableau, Power BI, Matplotlib/Seaborn)<br><br>Let's collaborate on data-driven projects! 🤝
 
 
 ## 🌐 Socials:
