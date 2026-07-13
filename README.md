@@ -91,34 +91,18 @@ I believe that data becomes valuable when it can help people understand a proble
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Statistics
+## 🚀 Let’s Connect & Collaborate
+
+I’m always interested in learning, collaborating, and building meaningful data-driven solutions.
+
+- 💡 Exploring data, AI, machine learning, and visualization.
+- 🤝 Open to collaboration on research, analytics, and technology projects.
+- 🌱 Continuously learning and turning ideas into practical solutions.
 
 <div align="center">
 
-<a href="https://github.com/ffernandaeky">
-  <img
-    height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ffernandaeky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"
-    alt="GitHub statistics for Eky Fernanda"
-  />
-</a>
+[![Visit GitHub Profile](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ffernandaeky)
 
-<a href="https://github.com/ffernandaeky">
-  <img
-    height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ffernandaeky&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"
-    alt="Most used programming languages"
-  />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Let’s build something meaningful with data. 🤝
-
-<sub>Open to collaboration, learning opportunities, and data-driven projects.</sub>
+<sub>Let’s build something meaningful with data.</sub>
 
 </div>
