@@ -48,20 +48,6 @@ I believe that data becomes valuable when it can help people understand a proble
 
 </div>
 
-## 🌾 Featured Final Project
-
-### YouTube Agriculture — Data-Driven Agricultural Content Analysis
-
-A full-stack project for exploring and analyzing Indonesian agricultural content from YouTube. The system supports data collection, text preprocessing, topic labeling, and AI-based text classification through an interactive dashboard.
-
-**Highlights:**
-
-- 🔎 Collecting agricultural YouTube video metadata using the YouTube Data API.
-- 🧹 Preprocessing Indonesian text for better data quality.
-- 🏷️ Organizing content into relevant agricultural topics.
-- 🧠 Applying **IndoBERT** for text classification.
-- 📊 Presenting data and insights through an interactive web dashboard.
-
 ## 🛠️ Tech Stack
 
 ### Core Languages & Development
