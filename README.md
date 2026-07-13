@@ -64,9 +64,9 @@ I believe that data becomes valuable when it can help people understand a proble
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![YouTube](https://img.shields.io/badge/YouTube_Data_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
@@ -75,8 +75,8 @@ I believe that data becomes valuable when it can help people understand a proble
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -95,13 +95,21 @@ I believe that data becomes valuable when it can help people understand a proble
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ffernandaeky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Eky's GitHub statistics" />
+<a href="https://github.com/ffernandaeky">
+  <img
+    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ffernandaeky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"
+    alt="GitHub statistics for Eky Fernanda"
+  />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffernandaeky&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ffernandaeky&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<a href="https://github.com/ffernandaeky">
+  <img
+    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ffernandaeky&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"
+    alt="Most used programming languages"
+  />
+</a>
 
 </div>
 
