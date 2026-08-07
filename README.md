@@ -2,7 +2,7 @@
 
 # Hi, I'm Eky Fernanda 👋
 
-### Data Scientist | Machine Learning Enthusiast | Problem Solver
+### Data Scientist | Data Analyst | AI/ML Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Turning+data+into+meaningful+insights.;Building+intelligent+solutions+with+AI.;Exploring+technology+for+real-world+impact." alt="Typing SVG" />
 
