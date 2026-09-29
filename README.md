@@ -21,7 +21,7 @@
 
 I'm Eky Fernanda, an Applied Data Science professional focused on Data Science, Data Analytics, Artificial Intelligence, and Machine Learning. I transform data into meaningful insights and practical solutions for real-world problems.
 
-With experience in data analysis, visualization, dashboard development, machine learning, and IoT, I build data products from preparation through implementation. I also bring leadership, teamwork, and problem-solving skills, and am open to opportunities as a Data Scientist, Data Analyst, or AI/ML Engineer.
+With experience in data analysis, visualization, dashboard development, machine learning, and IoT, I build data products from preparation through implementation. I also bring leadership, teamwork, and problem solving skills, and am open to opportunities as a Data Scientist, Data Analyst, or AI/ML Engineer.
 
 > _“From raw data to meaningful decisions.”_
 
